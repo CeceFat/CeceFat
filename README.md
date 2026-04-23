@@ -9,6 +9,7 @@ IP professional with 15+ years of experience in patent litigation, SEP/FRAND lic
 | Repo | Description |
 |------|-------------|
 | [SEP-essentiality-check-Prompt](https://github.com/CeceFat/SEP-essentiality-check-Prompt) | A structured prompt framework for SEP essentiality assessment against 3GPP/IEEE standards. 針對 3GPP/IEEE 標準的 SEP 必要性評估提示詞框架。 |
+| [sep-negotiation-advisor](https://github.com/CeceFat/sep-negotiation-advisor) | Research prototype mapping SEP licensing scenarios to UK FRAND doctrine (UPSC + Lenovo quintet) via a four-step doctrinal pipeline. 以四步法教義管線將 SEP 授權談判情境映射至英國 FRAND 判例法（UPSC + Lenovo 五案）。 |
 | [Resume_Job_Match_GEM_Prompt](https://github.com/CeceFat/Resume_Job_Match_GEM_Prompt) | Applies claim construction methodology to resume-job description matching. 將專利權利要求解構方法論應用於履歷與職缺比對。 |
 
 ## Disclaimer / 免責聲明
